@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step_config_category">
+    <sys_atf_step_config_category action="INSERT_OR_UPDATE">
+        <display_name>Server - Custom</display_name>
+        <name>Custom ATF Steps</name>
+        <step_env display_value="Server - Independent">6c2bcea1870312009dccc9ded0e3ecca</step_env>
+        <sys_class_name>sys_atf_step_config_category</sys_class_name>
+        <sys_created_by>djkersch</sys_created_by>
+        <sys_created_on>2020-03-25 18:41:25</sys_created_on>
+        <sys_id>bbf78cd52f3300103296d2172799b6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom ATF Steps</sys_name>
+        <sys_package display_value="ATF Custom Steps" source="x_435785_atf_steps">71d108912f3300103296d2172799b642</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF Custom Steps">71d108912f3300103296d2172799b642</sys_scope>
+        <sys_update_name>sys_atf_step_config_category_bbf78cd52f3300103296d2172799b6b8</sys_update_name>
+        <sys_updated_by>djkersch</sys_updated_by>
+        <sys_updated_on>2020-03-25 18:41:25</sys_updated_on>
+    </sys_atf_step_config_category>
+</record_update>
